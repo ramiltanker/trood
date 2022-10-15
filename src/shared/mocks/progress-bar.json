@@ -1,0 +1,6 @@
+[
+  { "name": "Sold", "color": "#BD1FBE", "value": 677 },
+  { "name": "Got free", "color": "#FC64FF", "value": 23 },
+  { "name": "Burned", "color": "#23E138", "value": 202 },
+  { "name": "Free float", "color": "#9CA4AF", "value": 323 }
+]

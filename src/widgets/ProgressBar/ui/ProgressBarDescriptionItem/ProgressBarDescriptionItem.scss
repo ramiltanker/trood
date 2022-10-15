@@ -1,0 +1,20 @@
+.progress-bar-description-item {
+    display: flex;
+    align-items: center;
+    margin-right: 5em;
+
+    &:last-child {
+        margin-right: 0;
+    }
+    
+    & span {
+        width: 2em;
+        height: 2em;
+        border-radius: 50%;
+        margin-right: 0.5em;
+    }
+
+    &__value {
+        font-size: 2.5em;
+    }
+}
